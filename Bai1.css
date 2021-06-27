@@ -1,0 +1,29 @@
+h1{
+    color: #006600;
+    text-align: center;
+}
+h2{
+    text-decoration: underline; 
+    color: #0000FF;
+}
+div.title{
+    background-color:#FECFFD;
+     text-align:center;
+     color:#FF3399;
+     font-size:24px;
+}
+div.body{
+    background-color:#FFFFCC;
+}
+p{
+    text-align: center;
+}
+#p1{
+    color: Blue; 
+}
+#p2{
+    color: Red; 
+}
+#p3{
+    color: green; 
+}

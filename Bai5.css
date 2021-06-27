@@ -1,0 +1,28 @@
+header{
+    height: 100px;
+    margin-bottom: 3px;
+}
+body{
+    background-color:white;
+}
+
+#b5,#b5 td,#b5 th{
+    border: 1px solid orange;
+    text-align: left;
+}
+.b2{
+    background-color: orangered;
+}
+#c5{
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-color: red;
+}
+#d{
+    color: red;
+}
+nav{
+    height: 800px;
+    margin-top: 300px;
+}

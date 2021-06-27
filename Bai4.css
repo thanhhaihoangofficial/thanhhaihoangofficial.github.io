@@ -1,0 +1,28 @@
+body{
+	background-color:#FFEDCA;
+}
+h1{
+	color:#CC6600;
+}
+.p1{
+	background-color:#FFFFFF;
+	color:#000;
+}
+.heading2{
+	background-color:#FFEDCA;
+}
+.heading3{
+	color:#FFFFFF;
+	background-color:#C60;
+}
+table.p{
+	width:300px;
+	border-collapse:collapse;
+	padding:3px;
+	height:200px;
+}
+img.im{
+    float: left;
+	width:200px;
+	height:200px;
+}

@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+.letrai{
+    text-align: left;
+}
+.legiua{
+    text-align: center;
+    background-color: silver;
+    color: blue;
+}
+.colorRed{
+    color: red;
+}

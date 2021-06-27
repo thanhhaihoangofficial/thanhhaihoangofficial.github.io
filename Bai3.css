@@ -1,0 +1,35 @@
+.colorRed{
+    color: red;
+}
+div{
+    border: 2px;
+    size: 30px;
+}
+.right{
+    text-align: right;
+
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+    color: orange;
+    size: 30px;
+    border:double;
+    border-width: 2px;
+    font-size: 30;
+}
+.PhuDe{
+    background-color: orangered;
+    color: white;
+    font-size: 25;
+    text-align: right;
+}
+.dropcap{
+    color: darkred;
+    font-size: 50px;
+    font-weight: bold;
+}
+.yellow{
+    font-style: italic;
+    background-color: lemonchiffon;
+}
