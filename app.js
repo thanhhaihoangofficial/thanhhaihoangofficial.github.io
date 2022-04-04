@@ -1,5 +1,5 @@
 const yourDate = new Date("2018-01-12T00:00:00"),
-music = ['1', '2', '3' , '4' , '5' , '6' ];
+music = ['1', '2', '3' , '4' , '5' , '6' , '7'];
 
 document.addEventListener('DOMContentLoaded', function(){
       var rootTime = document.querySelector("time");
